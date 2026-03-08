@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+venv/
+env/
+.env
+
+# Data (לא לשמור נתונים ב-Git)
+data/
+*.csv
+*.json
+*.pkl
+
+# IDE
+.vscode/
+.idea/
